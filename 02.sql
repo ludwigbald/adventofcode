@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS input (
 );
 
 COPY input (
-     inputline 
+    inputline 
     )
 FROM 'path-to-02.txt'
 ;
